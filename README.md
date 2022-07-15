@@ -1,4 +1,6 @@
-the projects in this repository, are projects I had while attending the course of practicum 100. They are ment to show the set of skills I have acquired in the course, and also, it might help others who are trying to be analysts.
+Hey, My name is Tzvi Meir.
+Corently I'm improving my skills as a data analyst.
+Looking for an interesting job that will chalenge me and expand my horizen.
 
 
 <!---
