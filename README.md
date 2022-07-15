@@ -1,6 +1,5 @@
-Hi, I’m Tzvi Meir
-- 🌱 I’m constantly working on improving my skills as an analist.
-- 💞️ I’m looking for an interesting job in the analysis field that can chalenge me, and expand my horizen 
+the projects in this repository, are projects I had while attending the course of practicum 100. They are ment to show the set of skills I have acquired in the course, and also, it might help others who are trying to be analysts.
+
 
 <!---
 GazelLight/GazelLight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
